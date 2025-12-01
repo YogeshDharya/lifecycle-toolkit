@@ -12,6 +12,8 @@ tmp/
 
 # Test binary, built with `go test -c`
 *.test
+#YD
+todo.txt
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
